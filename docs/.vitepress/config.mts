@@ -5,6 +5,9 @@ export default defineConfig({
   description: '个人知识库',
   lang: 'zh-CN',
   base: '/PersonKnowledge/',
+  head: [
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/PersonKnowledge/favicon.svg' }]
+  ],
 
   themeConfig: {
     siteTitle: '个人知识库',

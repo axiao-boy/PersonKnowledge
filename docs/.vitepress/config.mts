@@ -1,13 +1,13 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'LawKnowledge',
-  description: '法律知识库 - 法规条文、解读与案例整理',
+  title: '个人知识库',
+  description: '个人知识库',
   lang: 'zh-CN',
-  base: '/LawKnowledge/',
+  base: '/personKnowledge/',
 
   themeConfig: {
-    siteTitle: 'LawKnowledge',
+    siteTitle: '个人知识库',
     logo: '/logo.svg',
     search: {
       provider: 'local',
@@ -48,10 +48,10 @@ export default defineConfig({
     },
     footer: {
       message: '基于 VitePress 构建',
-      copyright: '2026 LawKnowledge. All rights reserved.'
+      copyright: '2026 个人知识库. All rights reserved.'
     },
     editLink: {
-      pattern: 'https://github.com/axiao-boy/LawKnowledge/edit/main/docs/:path',
+      pattern: 'https://github.com/axiao-boy/personKnowledge/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页'
     }
   }

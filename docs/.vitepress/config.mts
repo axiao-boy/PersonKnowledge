@@ -51,13 +51,15 @@ export default defineConfig({
           items: [{ text: '金融知识', link: '/finance/stock/' }]
         },
         {
-          items: [{ text: '食品', link: '/commodity/food/' }]
+          items: [{ text: '食品', link: '/commodity/food/' },
+            { text: '服装', link: '/commodity/clothing/' }
+          ]
         }
       ]
     },
     footer: {
       message: '基于 VitePress 构建',
-      copyright: '2026 个人知识库. All rights reserved.'
+      copyright: 'All rights reserved.'
     },
     editLink: {
       pattern: 'https://github.com/axiao-boy/personKnowledge/edit/main/docs/:path',

@@ -49,6 +49,9 @@ export default defineConfig({
         },
         {
           items: [{ text: '金融知识', link: '/finance/stock/' }]
+        },
+        {
+          items: [{ text: '食品', link: '/commodity/food/' }]
         }
       ]
     },

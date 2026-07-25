@@ -7,10 +7,10 @@ const route = useRoute()
 
 // Giscus 配置（从主题配置中读取，便于统一管理）
 const giscusConfig = {
-  repo: 'axiao-boy/LawKnowledge',
-  repoId: 'R_kgDOThQW-w', // TODO: 替换为你的 repoId（在 https://giscus.app 获取）
+  repo: 'axiao-boy/PersonKnowledge',
+  repoId: 'R_kgDOThQW-w', // 需要重新获取（在 https://giscus.app 获取）
   category: 'Announcements',
-  categoryId: 'DIC_kwDOThQW-84DB0W5', // TODO: 替换为你的 categoryId
+  categoryId: 'DIC_kwDOThQW-84DB0W5', // 需要重新获取
   mapping: 'pathname',
   strict: '0',
   reactionsEnabled: '1',

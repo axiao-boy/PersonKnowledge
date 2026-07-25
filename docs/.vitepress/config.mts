@@ -4,7 +4,7 @@ export default defineConfig({
   title: '个人知识库',
   description: '个人知识库',
   lang: 'zh-CN',
-  base: '/personKnowledge/',
+  base: '/PersonKnowledge/',
 
   themeConfig: {
     siteTitle: '个人知识库',

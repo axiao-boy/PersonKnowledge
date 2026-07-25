@@ -10,6 +10,12 @@
 
 - **中国裁判文书网**：[https://wenshu.court.gov.cn/](https://wenshu.court.gov.cn/)
 裁判文书，包含中国法律案件的详细信息和判断结果。可自行查找。
----
 
+
+## [国家企业信用信息查询系统](https://shiming.gsxt.gov.cn/socialuser-use-rllogin.html)
+国家企业信用信息查询系统，包含中国企业的详细信息和信用记录。可自行查找。
+
+
+
+--- 
 > 以上链接指向官方网站，内容由相关机构维护。

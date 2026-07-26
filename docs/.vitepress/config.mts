@@ -48,7 +48,9 @@ export default defineConfig({
             { text: '劳动仲裁', link: '/labor-law/zhongcai/' }]
         },
         {
-          items: [{ text: '金融知识', link: '/finance/stock/' }]
+          items: [{
+            text: '企业形式', link: '/finance/enterprise/' },
+            { text: '金融知识', link: '/finance/stock/' }]
         },
         {
           items: [{ text: '食品', link: '/commodity/food/' },

@@ -44,7 +44,7 @@ export default defineConfig({
         {
 
           items: [
-            { text: '劳动纠纷', link: '/labor-law/' },
+            { text: '劳动者须知', link: '/labor-law/' },
             { text: '劳动仲裁', link: '/labor-law/zhongcai/' }
           ]
         },

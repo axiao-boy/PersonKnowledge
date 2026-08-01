@@ -60,10 +60,7 @@ export default defineConfig({
         },
         {
           items: [
-            { text: '网络', link: '/internet/network/' },
-            { text: '自建代理指南', link: '/internet/proxy/' },
-            { text: '代理配置指南', link: '/internet/proxy-config/' },
-            { text: 'VPN配置指南', link: '/internet/vpn-config/' }
+            { text: '网络', link: '/internet/network/' }
           ]
         },
       ]

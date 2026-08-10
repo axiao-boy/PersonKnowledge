@@ -61,8 +61,8 @@ export default defineConfig({
         },
         {
           items: [
-            { text: '网络', link: '/internet/network/' }
-          
+            { text: '网络', link: '/internet/network/' },
+            { text: '办公常用软件', link: '/internet/office/' }
           ]
         },
       ]

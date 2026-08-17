@@ -12,7 +12,7 @@ export default defineConfig({
   themeConfig: {
     siteTitle: '个人知识库',
     logo: '/logo.svg',
-    outline: [2, 4],  
+    outline: [2, 3],  
     search: {
       provider: 'local',
       options: {

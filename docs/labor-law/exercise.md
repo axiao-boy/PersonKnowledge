@@ -41,6 +41,12 @@
 
 参考视频：[高强度有氧训练（B站）](https://www.bilibili.com/video/BV1az4y1d7KX/?spm_id_from=333.337.search-card.all.click&vd_source=28a75e92f3a7d178fef25a26495b0b23)
 
+肩颈[肩颈训练（B站）](https://www.bilibili.com/video/BV1rS4y1b7cU/?spm_id_from=333.337.search-card.all.click&vd_source=28a75e92f3a7d178fef25a26495b0b23)
+
+体态 [体态训练（B站）](https://www.bilibili.com/video/BV1ra411M7g4/?spm_id_from=333.788.recommend_more_video.1&trackid=web_related_0.router-related-2479604-pxdwc.1788600888887.54&vd_source=28a75e92f3a7d178fef25a26495b0b23)
+
+
+
 ### 训练分段
 
 | 时间点 | 训练内容 |

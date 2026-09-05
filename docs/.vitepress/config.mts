@@ -53,7 +53,8 @@ export default defineConfig({
         {
           items: [{
             text: '企业形式', link: '/finance/enterprise/' },
-            { text: '金融知识', link: '/finance/stock/' }]
+            { text: '金融知识', link: '/finance/stock/' },
+            { text: '银行', link: '/finance/bank/' }]
         },
         {
           items: [{ text: '食品', link: '/commodity/food/' }

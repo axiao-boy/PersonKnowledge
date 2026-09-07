@@ -45,6 +45,15 @@
 
 体态 [体态训练（B站）](https://www.bilibili.com/video/BV1ra411M7g4/?spm_id_from=333.788.recommend_more_video.1&trackid=web_related_0.router-related-2479604-pxdwc.1788600888887.54&vd_source=28a75e92f3a7d178fef25a26495b0b23)
 
+肩背 [肩背训练（B站）](https://www.bilibili.com/video/BV15d4y1n7Cp/?spm_id_from=333.337.search-card.all.click&vd_source=28a75e92f3a7d178fef25a26495b0b23)
+
+肩背2 [肩背训练2（B站）](https://www.bilibili.com/video/BV1CL411x7gV/?spm_id_from=333.337.search-card.all.click&vd_source=28a75e92f3a7d178fef25a26495b0b23)
+
+
+
+
+
+
 
 
 ### 训练分段
@@ -60,7 +69,7 @@
 
 ### 训练建议
 
-> 💡 **新手建议**：先拆分为多组单项目训练，等身体变强后再考虑全套一组完成。
+先拆分为多组单项目训练，等身体变强后再考虑全套一组完成。
 
 如果训练过程中存在无氧力量训练就不要太关注体重，因为肌肉密度比脂肪高，所以体重会增加。
 坚持保持热量缺口继续训练即可。

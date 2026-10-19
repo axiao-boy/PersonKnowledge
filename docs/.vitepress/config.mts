@@ -49,6 +49,7 @@ export default defineConfig({
             { text: '劳动仲裁', link: '/labor-law/zhongcai/' },
             { text: '健身', link: '/labor-law/exercise/' },
             { text: '形象管理', link: '/labor-law/grooming/' },
+            { text: '人生挑战', link: '/labor-law/life-challenge/' },
           ]
         },
         {

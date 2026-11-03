@@ -93,7 +93,8 @@ export default defineConfig({
                     { text: '综合分析', link: '/gongkao/shenlun/zonghe' },
                     { text: '提出对策', link: '/gongkao/shenlun/duice' },
                     { text: '公文写作', link: '/gongkao/shenlun/gongwen' },
-                    { text: '文章写作', link: '/gongkao/shenlun/zuowen' }
+                    { text: '文章写作', link: '/gongkao/shenlun/zuowen' },
+                    { text: '素材积累', link: '/gongkao/shenlun/sucai' }
                   ]
                 },
                 {

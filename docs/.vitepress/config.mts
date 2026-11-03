@@ -68,6 +68,47 @@ export default defineConfig({
             { text: '办公常用软件', link: '/internet/office/' }
           ]
         },
+        {
+          items: [
+            {
+              text: '公考',
+              link: '/gongkao/',
+              items: [
+                {
+                  text: '行测',
+                  link: '/gongkao/xingce/',
+                  items: [
+                    { text: '常识判断', link: '/gongkao/xingce/changshi' },
+                    { text: '言语理解与表达', link: '/gongkao/xingce/yanyu' },
+                    { text: '数量关系', link: '/gongkao/xingce/shuliang' },
+                    { text: '判断推理', link: '/gongkao/xingce/panduan' },
+                    { text: '资料分析', link: '/gongkao/xingce/ziliao' }
+                  ]
+                },
+                {
+                  text: '申论',
+                  link: '/gongkao/shenlun/',
+                  items: [
+                    { text: '归纳概括', link: '/gongkao/shenlun/guina' },
+                    { text: '综合分析', link: '/gongkao/shenlun/zonghe' },
+                    { text: '提出对策', link: '/gongkao/shenlun/duice' },
+                    { text: '公文写作', link: '/gongkao/shenlun/gongwen' },
+                    { text: '文章写作', link: '/gongkao/shenlun/zuowen' }
+                  ]
+                },
+                {
+                  text: '面试',
+                  link: '/gongkao/mianshi/',
+                  items: [
+                    { text: '结构化面试', link: '/gongkao/mianshi/jiegouhua' },
+                    { text: '无领导小组讨论', link: '/gongkao/mianshi/xiaozu' },
+                    { text: '专业能力测试', link: '/gongkao/mianshi/zhuanye' }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
       ]
     },
     footer: {
